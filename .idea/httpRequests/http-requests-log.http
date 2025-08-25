@@ -1,0 +1,110 @@
+POST http://localhost:8081/api/users/register
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-08-08T095518.400.json
+
+###
+
+POST http://localhost:8081/api/orders/place
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+""
+
+<> 2025-08-08T094606.404.json
+
+###
+
+POST http://localhost:8081/api/orders/place
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-08-08T094203.404.json
+
+###
+
+GET http://localhost:8081/api/users
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-03T173457.404.json
+
+###
+
+GET http://localhost:8080/api/users
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-03T173410.404.json
+
+###
+
+GET http://localhost:8080/api/users
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-03T173120.404.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+""
+
+<> 2025-08-03T172043.404.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+""
+
+<> 2025-08-03T171856.404.json
+
+###
+
+POST http://localhost:8080/api/users/register
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+""
+
+<> 2025-08-03T171846.404.json
+
+###
+
+POST http://localhost:8080/api/products
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-08-03T165321.404.json
+
+###
+
